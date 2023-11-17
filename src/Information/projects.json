@@ -1,0 +1,45 @@
+[
+   {
+     "title": "Medication Reminder Mobile App",
+     "imageSrc": "projects/Medication.png",
+     "description": "A user-friendly app enabling remote medication scheduling for seniors, bridging the tech gap for caregivers and patients. Features include medication recognition for accurate intake, alarm reminders and a rewards system promoting adherence.",
+     "skills": ["Flutter", "Dart", "Firebase", "TensorFlow"],
+     "source": "https://github.com/ManeshSridharan/Flutter-Medication-Application"
+   },
+   {
+     "title": "Portfolio Website",
+     "imageSrc": "projects/portfolioWebsite.png",
+     "description": "This project is designed for learning ReactJS and NodeJS from the extension of a Udemy full stack course. An addition of css modules was used for the styling from reference and learning from a youtube video. This portfolio serves as a platform to display my resume, projects, skills, and experience to prospective employers.",
+     "skills": ["ReactJS", "NodeJS", "CSS", "HTML", "JavaScript"],
+     "source": "https://www.github.com"
+   },
+   {
+     "title": "GitHub Profile Finder",
+     "imageSrc": "projects/GitHub Finder.png",
+     "description": "This simple project was created to grasp the workings of RestAPI, focusing on data fetching and presentation. It functions as a GitHub Profile finder, allowing users to input a person's GitHub username and retrieve information about their profile.",
+     "skills": ["RestAPI", "Axios", "HTML", "CSS", "JavaScript"],
+     "source": "https://github.com/ManeshSridharan/Github-Profile-Finder"
+   },
+   {
+     "title": "ScalaFX Calculator",
+     "imageSrc": "projects/Calculator.png",
+     "description": "The application comprises a comprehensive calculator offering fundamental arithmetic operations like addition, multiplication, subtraction, and division alongside having scientific calculator features, encompassing operations for square, cube, square root, cube root, sine, tangent, and cosine.",
+     "skills": ["Scala", "ScalaFX", "CSS"],
+     "source": "https://github.com/ManeshSridharan/ScalaFx-Calculator"
+   },
+   {
+     "title": "GamersDen E-Commerce Website",
+     "imageSrc": "projects/GamersDen.png",
+     "description": "The Gamers’ Den e-commerce platform is dedicated to retailing a diverse range of gaming merchandise, including laptops, desktops, mice, keyboards, and monitors. Customers have the ability to browse and purchase products, adding them to a cart for convenient checkout.",
+     "skills": ["PHP", "CSS", "HTML", "JavaScript"],
+     "source": "https://github.com/ManeshSridharan/Gamers-Den-e-commerce-website"
+   },
+   {
+     "title": "N-Queens-Problem",
+     "imageSrc": "projects/NQueens.png",
+     "description": "This project is the solution to the NQueens problem developed for Artificial Intelligence group project, the process can be visualized by a text based chess board.",
+     "skills": ["Python"],
+     "source": "https://github.com/ManeshSridharan/N-Queens-Problem"
+   }
+
+ ]

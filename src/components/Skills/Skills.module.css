@@ -1,0 +1,115 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  position: relative;
+  background-color: rgba(12, 12, 12, 0.6);
+  border-radius: 15px;
+  padding: 73px;
+  margin-top: 129px;
+  z-index: 1;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.sectionsContainer {
+  display: flex;
+  justify-content: space-between; 
+}
+
+.section {
+  width: 48%; 
+  background-color: var(--color-dark);
+  border-radius: 15px;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: bold;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 14px;
+}
+
+.skills {
+  width: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 37px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.skill {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 11px;
+}
+
+.skillImageContainer {
+  background-color: var(--color-secondary);
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 120px;
+}
+
+.skillImageContainer img {
+  width: 75px;
+}
+
+.skill p {
+  font-size: 20px;
+  font-family: var(--font-roboto);
+  font-weight: 500;
+}
+
+
+.sectionTitle{
+  font-size: 25px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+@media screen and (max-width: 830px) {
+  .content {
+    flex-direction: column;
+    align-items: center;
+    gap: 34px;
+  }
+
+  .skills {
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+
+  .sectionsContainer {
+    flex-direction: column; /* Stack sections on top of each other on smaller screens */
+    align-items: center;
+  }
+
+  .section {
+    width: 100%; /* Take up the full width on smaller screens */
+    margin-bottom: 20px; /* Add some space between the stacked sections */
+  }
+}

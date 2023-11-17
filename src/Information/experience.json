@@ -1,0 +1,32 @@
+[
+   {
+      "role": "Business Development Trainee",
+      "organisation": "Green Panel Products",
+      "startDate": "May, 2023",
+      "endDate": "Nov, 2023",
+      "experiences": ["Oversaw comprehensive management of the company's social media accounts", "Initiated research and commenced development on the company's new website using WordPress"],
+      "skillsLearned":["Figma","PhotoShop", "Video Editing", "Canva", "WordPress", "Microsoft PowerAutomate"],
+      "imageSrc": "history/GreenPanel.png"
+   },
+   {
+      "role": "Content Writer",
+      "organisation": "Freelance",
+      "startDate": "Apr, 2021",
+      "endDate": "Apr, 2023",
+      "experiences": ["Created STEM-based educational content at an IGCSE level for the subjects of Chemistry, Computer Science, and Information Communication Technology"],
+      "skillsLearned":["Microsoft Word","Microsoft PowerPoint", "Canva", "Content Management"],
+      "imageSrc": "history/Freelance.png"
+   },
+   {
+      "role": "Front-end Development Intern",
+      "organisation": "Digital Systems Malaysia",
+      "startDate": "Jan, 2023",
+      "endDate": "March, 2023",
+      "experiences": [
+         "Developed and designed the front-end of the company's web application",
+         "Researched and Implemented automation flows for data retrieval and image text recognition tasks"
+      ],
+      "skillsLearned":["VueJs",".Net Core", "JavaScript", "Microsoft PowerAutomate", "C#", "HTML", "Git"],
+      "imageSrc": "history/DigitalSystems.png"
+   }
+]

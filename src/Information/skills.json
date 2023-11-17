@@ -1,0 +1,82 @@
+[
+   {
+     "title": "HTML",
+     "imageSrc": "skills/html.png",
+     "category": "programmingLanguage"
+   },
+   {
+     "title": "CSS",
+     "imageSrc": "skills/css.png",
+     "category": "programmingLanguage"
+   },
+   {
+     "title": "React",
+     "imageSrc": "skills/react.png",
+     "category": "framework"
+   },
+   {
+     "title": "Node",
+     "imageSrc": "skills/node.png",
+     "category": "framework"
+   },
+   {
+     "title": "Figma",
+     "imageSrc": "skills/figma.png",
+     "category": "programmingLanguage"
+   },
+   {
+     "title": "VueJS",
+     "imageSrc": "skills/vue.png",
+     "category": "framework"
+   },
+   {
+     "title": "Bootstrap",
+     "imageSrc": "skills/bootstrap.png",
+     "category": "framework"
+   },
+   {
+     "title": "Dart",
+     "imageSrc": "skills/dart.png",
+     "category": "programmingLanguage"
+   },
+   {
+     "title": "Firebase",
+     "imageSrc": "skills/firebase.png",
+     "category": "programmingLanguage"
+   },
+   {
+     "title": "Flutter",
+     "imageSrc": "skills/flutter.png",
+     "category": "framework"
+   },
+   {
+     "title": "Git",
+     "imageSrc": "skills/git.png",
+     "category": "programmingLanguage"
+   },
+   {
+     "title": "SQL",
+     "imageSrc": "skills/sql.png",
+     "category": "programmingLanguage"
+   },
+   {
+     "title": "Python",
+     "imageSrc": "skills/python.png",
+     "category": "programmingLanguage"
+   },
+   {
+     "title": "Postgres",
+     "imageSrc": "skills/postgres.png",
+     "category": "programmingLanguage"
+   },
+   {
+     "title": "Java",
+     "imageSrc": "skills/java.png",
+     "category": "programmingLanguage"
+   },
+   {
+     "title": "JavaScript",
+     "imageSrc": "skills/javascript.png",
+     "category": "programmingLanguage"
+   }
+ ]
